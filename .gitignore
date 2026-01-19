@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+local.properties
+
+# Build outputs
+*.apk
+*.aab
+*.ap_
+
+# Temp files
+tmp/
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
